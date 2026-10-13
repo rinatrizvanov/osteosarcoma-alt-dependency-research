@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+title: >-
+  Osteosarcoma ALT: a transcriptomic classification signature and a
+  pre-registered test of TCAB1-stratified BIR dependency
+message: >-
+  If you refer to this work, please cite it using the metadata below.
+type: software
+authors:
+  - family-names: Rizvanov
+    given-names: Rinat
+    email: 1812Rinat@gmail.com
+repository-code: >-
+  https://github.com/rinatrizvanov/osteosarcoma-alt-dependency-research
+abstract: >-
+  Two linked computational projects on alternative lengthening of telomeres
+  (ALT) in osteosarcoma, using DepMap 26Q1. Part 1 builds a 19-gene curated
+  transcriptomic ALT classifier (primary cohort N = 20, AUROC 0.948,
+  permutation p < 0.001) and reports a bootstrap coefficient-stability analysis
+  showing that only FANCM and TERT are stable across cohorts. Part 2 uses the
+  frozen ALT labels to pre-register and test the prediction that ALT+ lines
+  with low TCAB1/WRAP53 expression depend more on break-induced replication
+  (POLD3, RAD52, SMARCAL1) than on canonical homologous recombination (BRCA1,
+  BRCA2, RAD51). The test did not confirm the prediction (Cliff's delta =
+  +0.281, p = 0.382, opposite to the predicted direction), and a subsequent
+  four-iteration pre-registered campaign under experiment-wide Benjamini-
+  Hochberg correction produced no positive result (final q = 0.420, 0.420,
+  1.000). The repository documents why the endpoint could not have detected
+  the effect: two of its three BIR genes carry no dependency variation in this
+  cohort, and 68.2 percent of the composite's variance came from the
+  comparator arm. No claim is made that the biological hypothesis is false.
+keywords:
+  - alternative lengthening of telomeres
+  - osteosarcoma
+  - DepMap
+  - CRISPR gene dependency
+  - break-induced replication
+  - TCAB1
+  - WRAP53
+  - SMARCAL1
+  - pre-registration
+  - null result
+license: MIT
+version: 1.0.0
+date-released: '2026-10-13'
