@@ -53,6 +53,14 @@ Content, not just working-tree state — none of this exists in this repository'
   so nothing is lost.
 - **`docs/.Rhistory`** from Part 1 — stray shell history, no content value.
 - **Run-varying provenance logs** (`provenance.jsonl`), which change on every execution.
+- **Preprint scaffolding.** A `preprint/` directory (outline, figure plan, abstract draft,
+  bibliography skeleton) was drafted in the parent repository before the decision was taken
+  not to publish. It is removed here rather than kept with a disclaimer, which would have
+  added noise rather than clarity. **No preprint is planned**; the result does not warrant
+  formal publication, and that was a deliberate decision rather than a default. The
+  scaffolding remains in the parent repository's history for anyone who wants it. Note that
+  `part2_bir_dependency_test/docs/preprint_outline.md` is a *different* and older document —
+  the Stage 1 closeout outline — and is retained as part of the original record.
 
 ## What was added here and did not exist in either parent
 
