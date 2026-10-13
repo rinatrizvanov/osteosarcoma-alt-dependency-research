@@ -1,0 +1,36 @@
+# --- raw data: never committed, fetched per README "How to reproduce" ---
+data/raw/
+*/data/raw/
+
+# --- run-varying provenance logs ---
+data/processed/provenance.jsonl
+*/data/processed/provenance.jsonl
+*/autoresearch/**/provenance.jsonl
+
+# --- publisher material is never redistributed ---
+# Only the literature INDEX, the scan notes and two small retrieval
+# manifests are tracked. PDFs and publisher supplementary files are not.
+*.pdf
+!part2_bir_dependency_test/figures/*.pdf
+!part1_alt_classification/docs/project_slides.pdf
+Literature/new/*
+*/Literature/new/*
+!*/Literature/new/osteo-alt-tcab/
+*/Literature/new/osteo-alt-tcab/*
+!*/Literature/new/osteo-alt-tcab/_report.json
+!*/Literature/new/osteo-alt-tcab/_summary.csv
+
+# --- python ---
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# --- editors / os ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

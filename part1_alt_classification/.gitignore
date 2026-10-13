@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+*.egg-info/
+.ipynb_checkpoints/
+data/raw/
+data/processed/provenance.jsonl
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.pytest_cache/

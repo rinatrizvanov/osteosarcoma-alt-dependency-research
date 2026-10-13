@@ -1,0 +1,45 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "tcab1-alt-osteo"
+version = "0.1.0"
+description = "TCAB1/ALT feasibility audit pipeline for osteosarcoma"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "pyranges>=0.1",
+    "GEOparse>=2.0",
+    "requests>=2.31",
+    "openpyxl>=3.1",
+    "scipy>=1.12",
+    "jupyterlab>=4.0",
+    "ipywidgets>=8.0",
+    "tqdm>=4.66",
+    "pyarrow>=14.0",
+    "ipykernel>=7.2.0",
+    "pyliftover>=0.4.1",
+    "scikit-learn>=1.5",
+]
+
+[project.optional-dependencies]
+sv = ["pybedtools>=0.9"]
+test = ["pytest>=7.4", "pytest-cov>=4.0"]
+dev = ["black>=23.0", "ruff>=0.1"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-v"
+
+[tool.ruff]
+line-length = 100
+
+[dependency-groups]
+dev = [
+    "pytest>=7.4",
+]
