@@ -1,0 +1,49 @@
+{
+  "outcome": "null",
+  "rule": "clean-null",
+  "headline": "Clean null: |aligned delta| = 0.000 < 0.2 (p = 1). No effect of interpretable size in either direction.",
+  "aligned_delta": -0.0,
+  "p_value": 1.0,
+  "predicted_sign": -1,
+  "conditions": [
+    {
+      "key": "exposure_variance_gate",
+      "description": "primary exposure passes the \u00a73 gate",
+      "passed": true,
+      "detail": "sd=0.761, shapiro p=0.117, guarded gap=0.454"
+    },
+    {
+      "key": "negative_control_null",
+      "description": "ZRANB3 shows no relationship and a smaller |rho| than the primary",
+      "passed": false,
+      "detail": "ZRANB3 rho=+0.1647, p=0.5403"
+    },
+    {
+      "key": "not_screen_confounded",
+      "description": "|rho(exposure, screen amplitude)| < |primary rho|",
+      "passed": false,
+      "detail": "screen-amplitude rho=-0.2794 vs primary +0.0000"
+    },
+    {
+      "key": "loo_no_sign_flip",
+      "description": "no leave-one-out refit flips the sign",
+      "passed": false,
+      "detail": "range [-0.0929, +0.1857]"
+    }
+  ],
+  "attributes": {
+    "statistic": "Spearman rho (PRIMPOL expression vs SMARCAL1 Chronos)",
+    "n_lines": 16,
+    "detection_floor": 0.4943,
+    "campaign_bar_rho": 0.535,
+    "exposure_swapped_from": "BLM (failed \u00a73 gate)",
+    "observed_delta": 0.0,
+    "all_conditions_passed": false,
+    "failed_conditions": [
+      "negative_control_null",
+      "not_screen_confounded",
+      "loo_no_sign_flip"
+    ],
+    "significant": false
+  }
+}

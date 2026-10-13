@@ -1,0 +1,4 @@
+gene,target_mean,target_sd,mean_tol,sd_tol,widenings,n_candidates
+POLD3,-1.7238,0.3191,0.15,0.05,0,79
+RAD52,0.0171,0.1727,0.15,0.05,0,6930
+SMARCAL1,-0.4907,0.395,0.15,0.05,0,74

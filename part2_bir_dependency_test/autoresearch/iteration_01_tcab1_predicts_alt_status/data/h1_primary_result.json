@@ -1,0 +1,16 @@
+{
+  "auroc": 0.37962962962962965,
+  "ci_high": 0.6666666666666666,
+  "ci_low": -0.18518518518518517,
+  "cliffs_delta": 0.24074074074074073,
+  "hodges_lehmann": 0.3877875999999998,
+  "median_neg": 3.48255525,
+  "median_pos": 4.193255199999999,
+  "min_detectable_delta": 0.4351851851851851,
+  "mwu_method": "asymptotic",
+  "n_neg": 12,
+  "n_pos": 18,
+  "name": "primary_18v12",
+  "p_value": 0.28031090698554784,
+  "u_statistic": 134.0
+}

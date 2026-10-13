@@ -1,0 +1,32 @@
+{
+  "branch": "direct",
+  "diagnostics": {
+    "branch": "direct",
+    "cn_tracks_better_than_tp53": true,
+    "exceeds_null": false,
+    "n_all_lines": 1719,
+    "n_os_lines": 34,
+    "null_n_genes": 1000,
+    "null_rho_median": 0.1343648137060038,
+    "null_rho_p95": 0.36626645526905416,
+    "null_rho_p99": 0.5007423985282294,
+    "p_wrap53_expr_vs_cn_os": 0.0008298042675046009,
+    "p_wrap53_tp53_all": 6.885586174903572e-52,
+    "p_wrap53_tp53_os": 0.16374610437902493,
+    "rationale": [
+      "rho(WRAP53, TP53) across 1719 lines = +0.3539 (p = 6.89e-52)",
+      "rho(WRAP53, TP53) within 34 osteosarcoma lines = +0.2443 (p = 0.164)",
+      "Expression-matched null over 1000 genes: median +0.1344, p95 +0.3663, p99 +0.5007",
+      "Observed rho sits at the 94.40th percentile of that null",
+      "rho(WRAP53 expr, WRAP53 CN) in osteosarcoma lines = +0.5537 (p = 0.00083)",
+      "DIRECT: rho(WRAP53, TP53) is within what expression-matched gene pairs show (below the 99th percentile). No evidence of antisense cross-assignment. Use WRAP53 log2(TPM+1) directly as the Section 4 stratifier."
+    ],
+    "rho_wrap53_expr_vs_cn_os": 0.5536893142085741,
+    "rho_wrap53_tp53_all": 0.3539176188848322,
+    "rho_wrap53_tp53_os": 0.244327298443984,
+    "wrap53_percentile_in_null": 94.39999999999999
+  },
+  "documentary_finding": "inconclusive_leaning_unstranded",
+  "notebook": "02",
+  "prespec_section": "4c"
+}

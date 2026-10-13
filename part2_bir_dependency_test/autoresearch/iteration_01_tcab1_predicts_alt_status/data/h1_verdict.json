@@ -1,0 +1,69 @@
+{
+  "aligned_delta": -0.24074074074074073,
+  "attributes": {
+    "all_conditions_passed": false,
+    "auroc": 0.37962962962962965,
+    "failed_conditions": [
+      "primary",
+      "r1_gold_only",
+      "r3_drop_known",
+      "r3b_drop_all_known",
+      "discrimination"
+    ],
+    "min_detectable_delta": 0.4351851851851851,
+    "mwu_method": "asymptotic",
+    "n_neg": 12,
+    "n_pos": 18,
+    "observed_delta": 0.24074074074074073,
+    "significant": false
+  },
+  "conditions": [
+    {
+      "description": "p<0.05 and delta <= -0.330",
+      "detail": "p=0.2803, delta=+0.241",
+      "key": "primary",
+      "passed": false
+    },
+    {
+      "description": "R1 same direction",
+      "detail": "delta=+0.286",
+      "key": "r1_gold_only",
+      "passed": false
+    },
+    {
+      "description": "R3 same direction",
+      "detail": "delta=+0.396",
+      "key": "r3_drop_known",
+      "passed": false
+    },
+    {
+      "description": "R3b same direction",
+      "detail": "delta=+0.418",
+      "key": "r3b_drop_all_known",
+      "passed": false
+    },
+    {
+      "description": "no sign flip on leave-one-out",
+      "detail": "range [+0.192, +0.343]",
+      "key": "r6_loo",
+      "passed": true
+    },
+    {
+      "description": "no sign flip on leave-one-depositor-out",
+      "detail": "12 evaluable depositors",
+      "key": "r8_loDo",
+      "passed": true
+    },
+    {
+      "description": "AUROC >= 0.70 (delta <= -0.400)",
+      "detail": "AUROC=0.380",
+      "key": "discrimination",
+      "passed": false
+    }
+  ],
+  "headline": "Counter-signal: non-significant but substantial effect opposite to the prediction (aligned delta = -0.241, |delta| >= 0.2, p = 0.2803). Not a clean null \u2014 the estimate runs the wrong way. This is the cell Stage 1 landed in and that criteria.evaluate left unnamed.",
+  "outcome": "counter_signal",
+  "p_value": 0.28031090698554784,
+  "predicted_sign": -1,
+  "rule": "counter-signal"
+}

@@ -1,0 +1,76 @@
+{
+  "concentration_section_6_4": {
+    "abs_excess_tertile_over_median": 0.25721153846153844,
+    "available": true,
+    "both_same_direction": false,
+    "concentrates_in_extreme_loss": false,
+    "delta_median_8v8": 0.28125,
+    "delta_tertile_3v13": 0.5384615384615384,
+    "interpretation": "No evidence of concentration in the extreme-loss lines: the tertile contrast exceeds the median primary by +0.257 in |delta|, within the pre-registered 0.3 threshold.",
+    "threshold": 0.3
+  },
+  "contrasts": {
+    "primary_median_8v8": {
+      "cliffs_delta": 0.28125,
+      "delta_ci_high": 0.84375,
+      "delta_ci_low": -0.3125,
+      "delta_magnitude": "small",
+      "direction_as_predicted": false,
+      "hodges_lehmann": 0.1865036058018169,
+      "median_intact": -0.009347039378926336,
+      "median_low": 0.25277345297320003,
+      "mwu_method": "exact",
+      "n_intact": 8,
+      "n_low": 8,
+      "name": "primary_median_8v8",
+      "p_value": 0.3822843822843822,
+      "u_statistic": 41.0
+    },
+    "sensitivity_tertile_3v13": {
+      "cliffs_delta": 0.5384615384615384,
+      "delta_ci_high": 1.0,
+      "delta_ci_low": -0.23076923076923078,
+      "delta_magnitude": "large",
+      "direction_as_predicted": false,
+      "hodges_lehmann": 0.27040163274552187,
+      "median_intact": 0.038449178913315674,
+      "median_low": 0.46052935513700766,
+      "mwu_method": "exact",
+      "n_intact": 13,
+      "n_low": 3,
+      "name": "sensitivity_tertile_3v13",
+      "p_value": 0.18928571428571428,
+      "u_statistic": 30.0
+    }
+  },
+  "min_detectable_delta": {
+    "3v13": 0.7948717948717949,
+    "3v6": 0.889,
+    "3v7": 0.905,
+    "4v5": 0.9,
+    "5v11": 0.673,
+    "5v5": 0.84,
+    "8v8": 0.594
+  },
+  "prespec_amend_v1_1": "a63d56c",
+  "prespec_freeze_v1_0": "81745ed",
+  "r1_gold_only": {
+    "primary_median_8v8": {
+      "cliffs_delta": -0.6190476190476191,
+      "delta_ci_high": 0.14285714285714285,
+      "delta_ci_low": -1.0,
+      "delta_magnitude": "large",
+      "direction_as_predicted": true,
+      "hodges_lehmann": -0.3711065780640511,
+      "median_intact": 0.038449178913315674,
+      "median_low": -0.37375090720952564,
+      "mwu_method": "exact",
+      "n_intact": 7,
+      "n_low": 3,
+      "name": "primary_median_8v8_gold_only",
+      "p_value": 0.18333333333333335,
+      "u_statistic": 4.0
+    },
+    "sensitivity_tertile_3v13": null
+  }
+}

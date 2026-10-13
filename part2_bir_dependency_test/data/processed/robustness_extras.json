@@ -1,0 +1,48 @@
+{
+  "R4_continuous": {
+    "as_predicted": false,
+    "check": "R4",
+    "description": "Spearman(WRAP53 expression, composite) across ALT+",
+    "n": 16,
+    "p_value": 0.0868940417133647,
+    "prediction": "rho > 0",
+    "rho": -0.4415012232789452
+  },
+  "R7_summary": {
+    "all_same_sign_as_observed": true,
+    "any_sign_flip_to_predicted": false,
+    "check": "R7",
+    "delta_max": 0.4642857142857143,
+    "delta_min": 0.17857142857142858,
+    "description": "leave-one-line-out on the primary",
+    "n_refits": 16,
+    "observed_delta": 0.28125
+  },
+  "interaction_6_2": {
+    "alt_negative_contradicts": false,
+    "alt_negative_mwu_method": "exact",
+    "alt_negative_p_value": 0.4126984126984127,
+    "delta_alt_negative": -0.4,
+    "delta_alt_positive": 0.28125,
+    "delta_difference": 0.68125,
+    "n_perm": 5000,
+    "p_value": 0.1762,
+    "selectivity_as_predicted": false
+  },
+  "primary_recomputed": {
+    "cliffs_delta": 0.28125,
+    "delta_ci_high": 0.84375,
+    "delta_ci_low": -0.3125,
+    "delta_magnitude": "small",
+    "direction_as_predicted": false,
+    "hodges_lehmann": 0.1865036058018169,
+    "median_intact": -0.009347039378926336,
+    "median_low": 0.25277345297320003,
+    "mwu_method": "exact",
+    "n_intact": 8,
+    "n_low": 8,
+    "name": "primary_median_8v8",
+    "p_value": 0.3822843822843822,
+    "u_statistic": 41.0
+  }
+}

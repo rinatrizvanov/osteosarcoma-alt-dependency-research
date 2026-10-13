@@ -1,0 +1,10 @@
+{
+  "h1_cohort.csv": "a080346d5257d9c8c0991dd15b1696b9287f0bee018adaab1a6114f943d98c50",
+  "h1_cohort_uncollapsed.csv": "2880e2942e239c3fb27a9196b91b6b1a01850463a522712d501edc22d5286550",
+  "h1_leave_one_depositor_out.csv": "ba4004f607ebc90c860d6fe51b1302a87c657bbc2371cf08d8b30f03d64bc958",
+  "h1_loo_deltas.csv": "a8ab3391f982b3dbc29b11a6325dde4caa62f7dfa51dc8e13ce4bfaec0d8aa1a",
+  "h1_primary_result.json": "f219e3c34ad1c31f09ef13ddc1a5655ad9fea707f265deb99ccf31911a1ec739",
+  "h1_robustness.csv": "16285265232e9a56c7aa6a4f9d36959adf062a2ecfef2712255196f51b2ef597",
+  "h1_verdict.json": "fca8ed50679c3045e85d5cee73f63ce5b8743a5c7cfd8ecb999f6e85694149b4",
+  "notebook_01_report.md": "5d4a496117303e8d192144a6fe0fa269bd9b3e90713f384079aa1291ebdd6e30"
+}

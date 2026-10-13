@@ -1,0 +1,33 @@
+{
+  "iteration": "03_bir_module_coherence",
+  "prespec_freeze": "b24a8ed",
+  "statistic": "mean pairwise Spearman rho",
+  "genes": [
+    "POLD3",
+    "RAD52",
+    "SMARCAL1"
+  ],
+  "n_lines": 16,
+  "T": -0.182353,
+  "p_perm": 0.228477,
+  "predicted_sign": 1,
+  "detection_floor": 0.289216,
+  "pairwise": {
+    "POLD3|RAD52": -0.267647,
+    "POLD3|SMARCAL1": 0.023529,
+    "RAD52|SMARCAL1": -0.302941
+  },
+  "gate_pol_delta_raw": -0.163725,
+  "gate_pol_delta_standardised": -0.196078,
+  "gate_passed": false,
+  "matched_percentile": 12.5,
+  "matched_q95": 0.279412,
+  "exceeds_matched": false,
+  "standardised_T": -0.188235,
+  "alt_negative_T": 0.377778,
+  "broderick_s1b_rho_rad52_smarcal1": -0.302941,
+  "broderick_s1b_supported": true,
+  "loo_T_min": -0.2476,
+  "loo_T_max": -0.1524,
+  "verdict": "null"
+}

@@ -1,0 +1,941 @@
+[
+  {
+    "doi": "10.1002/gcc.10158",
+    "title": "Comprehensive molecular cytogenetic characterization of cervical cancer cell lines",
+    "year": "2003",
+    "pmcid": null,
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": []
+  },
+  {
+    "doi": "10.1002/gcc.20579",
+    "title": "Molecular and transcriptional characterization of 17p loss in B‐cell chronic lymphocytic leukemia",
+    "year": "2008",
+    "pmcid": null,
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": []
+  },
+  {
+    "doi": "10.1016/j.ajhg.2014.10.006",
+    "title": "Dosage Changes of a Segment at 17p13.1 Lead to Intellectual Disability and Microcephaly as a Result of Complex Genetic Interaction of Multiple Genes",
+    "year": "2014",
+    "pmcid": "PMC4225592",
+    "is_oa": true,
+    "folder": "Carvalho-2014-Dosage_Changes_of_a_Segment_at_17p13_1_Lead_to_Intellectual__j_ajhg_2014_10_006",
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "http://www.cell.com/article/S0002929714004285/pdf",
+        "result": "HTTP 403"
+      },
+      {
+        "url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC4225592&blobtype=pdf",
+        "result": "HTTP 403"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4225592/fullTextPdf",
+        "result": "HTTP 503"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4225592/fullTextXML",
+        "result": "HTTP error"
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.ajpath.2017.04.022",
+    "title": "Breast Cancer Molecular Stratification",
+    "year": "2017",
+    "pmcid": null,
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "http://ajp.amjpathol.org/article/S0002944017301347/pdf",
+        "result": "HTTP 403"
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.cancergen.2026.06.001",
+    "title": "Beyond ATRX: The heterogeneous basis of Alternative Lengthening of Telomeres in osteosarcoma",
+    "year": "2026",
+    "pmcid": null,
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": []
+  },
+  {
+    "doi": "10.1016/j.cell.2012.12.034",
+    "title": "Integrative eQTL-Based Analyses Reveal the Biology of Breast Cancer Risk Loci",
+    "year": "2013",
+    "pmcid": "PMC4165609",
+    "is_oa": true,
+    "folder": "Li-2013-Integrative_eQTL_Based_Analyses_Reveal_the_Biology_of_Breast__j_cell_2012_12_034",
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "http://www.cell.com/article/S0092867412015565/pdf",
+        "result": "HTTP 403"
+      },
+      {
+        "url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC4165609&blobtype=pdf",
+        "result": "HTTP 403"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4165609/fullTextPdf",
+        "result": "HTTP 503"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4165609/fullTextXML",
+        "result": "HTTP error"
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.celrep.2024.114116",
+    "title": "RAD52-dependent mitotic DNA synthesis is required for genome stability in Cyclin E1-overexpressing cells",
+    "year": "2024",
+    "pmcid": null,
+    "is_oa": true,
+    "folder": "Audrey-2024-RAD52_dependent_mitotic_DNA_synthesis_is_required_for_genome__j_celrep_2024_114116",
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "http://www.cell.com/article/S2211124724004443/pdf",
+        "result": "HTTP 403"
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.critrevonc.2025.105017",
+    "title": "Telomere maintenance meets cancer metabolism: Mechanistic insights and clinical opportunities",
+    "year": "2025",
+    "pmcid": null,
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": []
+  },
+  {
+    "doi": "10.1016/j.dnarep.2017.06.015",
+    "title": "The role of SMARCAL1 in replication fork stability and telomere maintenance",
+    "year": "2017",
+    "pmcid": null,
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": []
+  },
+  {
+    "doi": "10.1016/j.mocell.2026.100405",
+    "title": "Divergent proteomic landscapes and functional requirements for telomere maintenance in type I and type II ALT mESCs",
+    "year": "2026",
+    "pmcid": null,
+    "is_oa": true,
+    "folder": "Lee-2026-Divergent_proteomic_landscapes_and_functional_requirements_f__j_mocell_2026_100405",
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S1016847826000968/pdf",
+        "result": "HTTP 403"
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.molcel.2016.11.027",
+    "title": "Wrap53, a Natural p53 Antisense Transcript Required for p53 Induction upon DNA Damage",
+    "year": "2016",
+    "pmcid": null,
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "http://www.cell.com/article/S1097276516307638/pdf",
+        "result": "HTTP 403"
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.molcel.2021.05.014",
+    "title": "RADX prevents genome instability by confining replication fork reversal to stalled forks",
+    "year": "2021",
+    "pmcid": "PMC8286330",
+    "is_oa": true,
+    "folder": "Krishnamoorthy-2021-RADX_prevents_genome_instability_by_confining_replication_fo__j_molcel_2021_05_014",
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "http://www.cell.com/article/S1097276521003907/pdf",
+        "result": "HTTP 403"
+      },
+      {
+        "url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC8286330&blobtype=pdf",
+        "result": "HTTP 403"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8286330/fullTextPdf",
+        "result": "HTTP 503"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8286330/fullTextXML",
+        "result": "HTTP error"
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.semcancer.2010.03.001",
+    "title": "A mobile threat to genome stability: The impact of non-LTR retrotransposons upon the human genome",
+    "year": "2010",
+    "pmcid": "PMC2925057",
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC2925057&blobtype=pdf",
+        "result": "HTTP 403"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2925057/fullTextPdf",
+        "result": "HTTP 503"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2925057/fullTextXML",
+        "result": "HTTP error"
+      }
+    ]
+  },
+  {
+    "doi": "10.1038/modpathol.3800090",
+    "title": "Cytogenetic and molecular cytogenetic findings in 43 aneurysmal bone cysts: aberrations of 17p mapped to 17p13.2 by fluorescence in situ hybridization",
+    "year": "2004",
+    "pmcid": null,
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://www.nature.com/articles/modpathol.3800090.pdf",
+        "result": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "doi": "10.1073/pnas.050397097",
+    "title": "Detection of leukemia-associated MLL-GAS7 translocation early during chemotherapy with DNA topoisomerase II inhibitors",
+    "year": "2000",
+    "pmcid": "PMC16012",
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC16012&blobtype=pdf",
+        "result": "HTTP 403"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC16012/fullTextPdf",
+        "result": "HTTP 503"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC16012/fullTextXML",
+        "result": "HTTP error"
+      }
+    ]
+  },
+  {
+    "doi": "10.1073/pnas.1510750112",
+    "title": "SMARCAL1 maintains telomere integrity during DNA replication",
+    "year": "2015",
+    "pmcid": "PMC4672769",
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC4672769&blobtype=pdf",
+        "result": "HTTP 403"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4672769/fullTextPdf",
+        "result": "HTTP 503"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4672769/fullTextXML",
+        "result": "HTTP error"
+      }
+    ]
+  },
+  {
+    "doi": "10.1080/15384101.2025.2609646",
+    "title": "TCAB1: a key promoter of tumor growth through telomere maintenance and senescence evasion",
+    "year": "2026",
+    "pmcid": "PMC12915875",
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC12915875&blobtype=pdf",
+        "result": "HTTP 403"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12915875/fullTextPdf",
+        "result": "HTTP 503"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12915875/fullTextXML",
+        "result": "HTTP error"
+      }
+    ]
+  },
+  {
+    "doi": "10.1080/15476286.2016.1211224",
+    "title": "Identification of processing elements and interactors implicate SMN, coilin and the pseudogene-encoded coilp1 in telomerase and box C/D scaRNP biogenesis",
+    "year": "2016",
+    "pmcid": "PMC5056767",
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/15476286.2016.1211224?needAccess=true&role=button",
+        "result": "HTTP 403"
+      },
+      {
+        "url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC5056767&blobtype=pdf",
+        "result": "HTTP 403"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5056767/fullTextPdf",
+        "result": "HTTP 503"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5056767/fullTextXML",
+        "result": "HTTP error"
+      }
+    ]
+  },
+  {
+    "doi": "10.1080/19491034.2016.1179413",
+    "title": "SMARCAL1 and telomeres: Replicating the troublesome ends",
+    "year": "2016",
+    "pmcid": "PMC4991236",
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/19491034.2016.1179413?needAccess=true",
+        "result": "HTTP 403"
+      },
+      {
+        "url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC4991236&blobtype=pdf",
+        "result": "HTTP 403"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4991236/fullTextPdf",
+        "result": "HTTP 503"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4991236/fullTextXML",
+        "result": "HTTP error"
+      }
+    ]
+  },
+  {
+    "doi": "10.1086/341963",
+    "title": "Molecular Characterization of the Pericentric Inversion That Causes Differences Between Chimpanzee Chromosome 19 and Human Chromosome 17",
+    "year": "2002",
+    "pmcid": "PMC379169",
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "http://www.cell.com/article/S0002929707604820/pdf",
+        "result": "HTTP 403"
+      },
+      {
+        "url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC379169&blobtype=pdf",
+        "result": "HTTP 403"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC379169/fullTextPdf",
+        "result": "HTTP 503"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC379169/fullTextXML",
+        "result": "HTTP error"
+      }
+    ]
+  },
+  {
+    "doi": "10.1093/neuonc/noae016",
+    "title": "Mechanisms of telomere maintenance and associated therapeutic vulnerabilities in malignant gliomas",
+    "year": "2024",
+    "pmcid": "PMC11145458",
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11145458/pdf/noae016.pdf",
+        "result": "not a PDF"
+      },
+      {
+        "url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11145458&blobtype=pdf",
+        "result": "HTTP 403"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11145458/fullTextPdf",
+        "result": "HTTP 503"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11145458/fullTextXML",
+        "result": "HTTP error"
+      }
+    ]
+  },
+  {
+    "doi": "10.1128/mcb.00151-10",
+    "title": "Specificity and Stoichiometry of Subunit Interactions in the Human Telomerase Holoenzyme Assembled In Vivo",
+    "year": "2010",
+    "pmcid": "PMC2876521",
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC2876521&blobtype=pdf",
+        "result": "HTTP 403"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2876521/fullTextPdf",
+        "result": "HTTP 503"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2876521/fullTextXML",
+        "result": "HTTP error"
+      }
+    ]
+  },
+  {
+    "doi": "10.1128/mcb.00379-12",
+    "title": "Telomerase Recruitment Requires both TCAB1 and Cajal Bodies Independently",
+    "year": "2012",
+    "pmcid": "PMC3434490",
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC3434490&blobtype=pdf",
+        "result": "HTTP 403"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3434490/fullTextPdf",
+        "result": "HTTP 503"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3434490/fullTextXML",
+        "result": "HTTP error"
+      }
+    ]
+  },
+  {
+    "doi": "10.1136/jcp-2023-209005",
+    "title": "Alternative lengthening of telomeres: mechanism and the pathogenesis of cancer",
+    "year": "2023",
+    "pmcid": "PMC11450735",
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11450735/pdf/nihms-2023742.pdf",
+        "result": "not a PDF"
+      },
+      {
+        "url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11450735&blobtype=pdf",
+        "result": "HTTP 403"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11450735/fullTextPdf",
+        "result": "HTTP 503"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11450735/fullTextXML",
+        "result": "HTTP error"
+      }
+    ]
+  },
+  {
+    "doi": "10.1158/1078-0432.ccr-19-3231",
+    "title": "Single-Cell Genomic Characterization Reveals the Cellular Reprogramming of the Gastric Tumor Microenvironment",
+    "year": "2020",
+    "pmcid": "PMC7269843",
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC7269843&blobtype=pdf",
+        "result": "HTTP 403"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7269843/fullTextPdf",
+        "result": "HTTP 503"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7269843/fullTextXML",
+        "result": "HTTP error"
+      }
+    ]
+  },
+  {
+    "doi": "10.1182/blood-2025-3506",
+    "title": "17p cytogenetic changes in TP53-mutated AML",
+    "year": "2025",
+    "pmcid": null,
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://ashpublications.org/blood/article-pdf/146/Supplement 1/3506/2450093/blood-6253-main.pdf",
+        "result": "HTTP 403"
+      }
+    ]
+  },
+  {
+    "doi": "10.1182/blood-2025-3941",
+    "title": "Modeling del(17p) in multiple myeloma for molecular and functional characterization",
+    "year": "2025",
+    "pmcid": null,
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://ashpublications.org/blood/article-pdf/146/Supplement 1/3941/2448781/blood-6688-main.pdf",
+        "result": "HTTP 403"
+      }
+    ]
+  },
+  {
+    "doi": "10.1200/jco-26-00742",
+    "title": "Prognostic Impact of Telomere Maintenance Mechanisms in Neuroblastoma",
+    "year": "2026",
+    "pmcid": null,
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://ascopubs.org/doi/pdfdirect/10.1200/JCO-26-00742",
+        "result": "HTTP 403"
+      }
+    ]
+  },
+  {
+    "doi": "10.1309/jqmr-323g-71y9-m7mb",
+    "title": "Cytogenetic Findings in Mantle Cell Lymphoma",
+    "year": "2001",
+    "pmcid": null,
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://academic.oup.com/ajcp/article-pdf/116/6/886/24981566/ajcpath116-0886.pdf",
+        "result": "HTTP 403"
+      }
+    ]
+  },
+  {
+    "doi": "10.1530/erc-24-0305",
+    "title": "Management of patients with small pancreatic neuroendocrine tumors from a biomarker and surgical perspective",
+    "year": "2025",
+    "pmcid": "PMC11997717",
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11997717/pdf/nihms-2068150.pdf",
+        "result": "not a PDF"
+      },
+      {
+        "url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11997717&blobtype=pdf",
+        "result": "HTTP 403"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11997717/fullTextPdf",
+        "result": "HTTP 503"
+      },
+      {
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11997717/fullTextXML",
+        "result": "HTTP error"
+      }
+    ]
+  },
+  {
+    "doi": "10.17863/cam.129190",
+    "title": "Structural and biochemical characterisation of the human telomerase catalytic cycle and a telomerase dimer",
+    "year": "2025",
+    "pmcid": null,
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": []
+  },
+  {
+    "doi": "10.2174/0113816128421211260214133902",
+    "title": "In vitro and In vivo Based Multi-Target Therapy and Prognostic Bio-modeling in Liver Cancer",
+    "year": "2026",
+    "pmcid": null,
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": []
+  },
+  {
+    "doi": "10.4161/cc.8.15.9223",
+    "title": "Wrap53, a novel regulator of p53",
+    "year": "2009",
+    "pmcid": null,
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://www.tandfonline.com/doi/pdf/10.4161/cc.8.15.9223?needAccess=true&role=button",
+        "result": "HTTP 403"
+      }
+    ]
+  },
+  {
+    "doi": "10.64898/2025.12.30.696808",
+    "title": "Multi-omics characterization of IDH-mutant astrocytoma-derived cell lines reveals NOTCH-regulated plastic quiescent astrocyte-like state",
+    "year": "2025",
+    "pmcid": null,
+    "is_oa": true,
+    "folder": "Garcia-2025-Multi_omics_characterization_of_IDH_mutant_astrocytoma_deriv__2025_12_30_696808",
+    "pdf": "Garcia-2025-Multi_omics_characterization_of_IDH_mutant_astrocytoma_deriv__2025_12_30_696808/paper.pdf",
+    "pdf_source": "https://www.biorxiv.org/content/10.64898/2025.12.30.696808v1.full.pdf",
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://www.biorxiv.org/content/biorxiv/early/2025/12/31/2025.12.30.696808.full.pdf",
+        "result": "HTTP 429"
+      },
+      {
+        "url": "https://www.biorxiv.org/content/10.64898/2025.12.30.696808v1.full.pdf",
+        "result": "6.2 MB"
+      }
+    ]
+  },
+  {
+    "doi": "10.64898/2026.01.02.691864",
+    "title": "Functional inactivation of the telomerase chaperone TCAB1 primes cells for the activation of ALT in osteosarcoma",
+    "year": "2026",
+    "pmcid": "PMC12776394",
+    "is_oa": true,
+    "folder": "Keegan-2026-Functional_inactivation_of_the_telomerase_chaperone_TCAB1_pr__2026_01_02_691864",
+    "pdf": "Keegan-2026-Functional_inactivation_of_the_telomerase_chaperone_TCAB1_pr__2026_01_02_691864/paper.pdf",
+    "pdf_source": "https://www.biorxiv.org/content/10.64898/2026.01.02.691864v1.full.pdf",
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://www.biorxiv.org/content/10.64898/2026.01.02.691864v1.full.pdf",
+        "result": "4.9 MB"
+      }
+    ]
+  },
+  {
+    "doi": "10.64898/2026.02.15.704070",
+    "title": "SMARCAL1 is a candidate therapeutic target for ALT-positive tumors",
+    "year": "2026",
+    "pmcid": "PMC12934771",
+    "is_oa": true,
+    "folder": "Taglialatela-2026-SMARCAL1_is_a_candidate_therapeutic_target_for_ALT_positive__2026_02_15_704070",
+    "pdf": "Taglialatela-2026-SMARCAL1_is_a_candidate_therapeutic_target_for_ALT_positive__2026_02_15_704070/paper.pdf",
+    "pdf_source": "https://www.biorxiv.org/content/10.64898/2026.02.15.704070v1.full.pdf",
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://www.biorxiv.org/content/10.64898/2026.02.15.704070v1.full.pdf",
+        "result": "28.5 MB"
+      }
+    ]
+  },
+  {
+    "doi": "10.64898/2026.03.04.709438",
+    "title": "Tabular foundation model predicts alternative lengthening of telomeres (ALT) and identifies SMARCAL1 as a target in ALT-driven cancers",
+    "year": "2026",
+    "pmcid": "PMC12991073",
+    "is_oa": true,
+    "folder": "Bennett-2026-Tabular_foundation_model_predicts_alternative_lengthening_of__2026_03_04_709438",
+    "pdf": "Bennett-2026-Tabular_foundation_model_predicts_alternative_lengthening_of__2026_03_04_709438/paper.pdf",
+    "pdf_source": "https://www.biorxiv.org/content/10.64898/2026.03.04.709438v1.full.pdf",
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://www.biorxiv.org/content/10.64898/2026.03.04.709438v1.full.pdf",
+        "result": "3.9 MB"
+      }
+    ]
+  },
+  {
+    "doi": "10.7554/elife.112326",
+    "title": "Break-induced replication drives large-scale genomic amplifications in cancer cells",
+    "year": "2026",
+    "pmcid": null,
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://elifesciences.org/reviewed-preprints/112326.pdf",
+        "result": "not a PDF"
+      },
+      {
+        "url": "https://cdn.elifesciences.org/articles/112326/elife-112326-v1.pdf",
+        "result": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "doi": "10.7554/elife.112326.1",
+    "title": "Break-induced replication drives large-scale genomic amplifications in cancer cells",
+    "year": "2026",
+    "pmcid": null,
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://cdn.elifesciences.org/articles/112326/elife-112326-v1.pdf",
+        "result": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "doi": "10.7554/elife.112326.1.sa1",
+    "title": "Reviewer #2 (Public review): Break-induced replication drives large-scale genomic amplifications in cancer cells",
+    "year": "2026",
+    "pmcid": null,
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://elifesciences.org/reviewed-preprints/112326v1.pdf",
+        "result": "not a PDF"
+      },
+      {
+        "url": "https://cdn.elifesciences.org/articles/112326/elife-112326-v1.pdf",
+        "result": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "doi": "10.7554/elife.112326.1.sa2",
+    "title": "Reviewer #1 (Public review): Break-induced replication drives large-scale genomic amplifications in cancer cells",
+    "year": "2026",
+    "pmcid": null,
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://cdn.elifesciences.org/articles/112326/elife-112326-v1.pdf",
+        "result": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "doi": "10.7554/elife.112326.1.sa4",
+    "title": "Author response: Break-induced replication drives large-scale genomic amplifications in cancer cells",
+    "year": "2026",
+    "pmcid": null,
+    "is_oa": true,
+    "folder": null,
+    "pdf": null,
+    "pdf_source": null,
+    "fulltext_xml": null,
+    "si_files": [],
+    "si_sources": [],
+    "attempts": [
+      {
+        "url": "https://cdn.elifesciences.org/articles/112326/elife-112326-v1.pdf",
+        "result": "HTTP 404"
+      }
+    ]
+  }
+]

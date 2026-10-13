@@ -1,0 +1,7 @@
+analysis,exposure,outcome,n,rho,p_perm,floor_p05,reaches_floor,aligned
+primary,PRIMPOL,SMARCAL1,16,0.0,1.0,0.4943,False,-0.0
+S1 negative control,ZRANB3,SMARCAL1,16,0.1647,0.5403,0.4943,False,-0.1647
+S2 screen amplitude,PRIMPOL,genome-wide mean effect,16,-0.2794,0.2967,0.4943,False,0.2794
+S2b standardised,PRIMPOL,SMARCAL1 (z within line),16,0.0118,0.9703,0.4943,False,-0.0118
+S3 ALT- specificity,PRIMPOL,SMARCAL1,9,-0.1333,0.7501,0.6833,False,0.1333
+S4 BLM (UNINTERPRETABLE),BLM,SMARCAL1,16,0.1882,0.4813,0.4943,False,-0.1882

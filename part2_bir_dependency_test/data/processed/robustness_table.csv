@@ -1,0 +1,8 @@
+check,description,n_low,n_intact,p_value,cliffs_delta,delta_ci_low,delta_ci_high,hodges_lehmann,delta_magnitude,direction_as_predicted,note
+R1,gold-only ALT+ within primary arms,3,7,0.18333333333333335,-0.6190476190476191,-1.0,0.14285714285714285,-0.3711065780640511,large,True,"n=3 low; at 3v7 the exact null median |delta| is 0.33, so unstable"
+R2,median split within ALT+ (DEGENERATE),8,8,0.3822843822843822,0.28125,-0.3125,0.84375,0.1865036058018169,small,False,Identical to the primary: the §4b guard made the median split the primary rule. Carries no independent information.
+R3,tertile within ALT+ only (5v11),5,11,0.08974358974358976,0.5636363636363636,0.05454545454545454,0.9636363636363636,0.3725624412260826,large,False,
+R5,ATRX-wildtype ALT+ only (15 of 16),7,8,0.6125874125874127,0.17857142857142858,-0.5,0.7857142857142857,0.13170072393426702,small,False,"Near-vacuous as prespec §7 anticipated: only 1 ALT+ line is ATRX-altered, so this drops 1 line. Reported as UNINFORMATIVE, not as evidence of no ATRX confounding."
+R6,ALT- negative control (lineage control per §7),4,5,0.4126984126984127,-0.4,-1.0,0.5,-0.1519684305789663,medium,True,"At 4v5 the exact null median |delta| is 0.30 and P(|delta|>=0.474)=0.286, so this is too small to gate on -- prespec §6.2."
+R8,"BIR set without SMARCAL1 (POLD3, RAD52)",8,8,0.6453768453768453,0.15625,-0.4375,0.75,0.19527479504468692,small,False,Guards against the composite restating the published broad SMARCAL1 ALT dependency.
+6.3,within-line z-scored composite,8,8,0.3822843822843822,0.28125,-0.3125,0.84375,0.44840666784532734,small,False,Stronger control for line-level essentiality scale than the composite difference alone.

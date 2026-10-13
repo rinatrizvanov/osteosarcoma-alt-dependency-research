@@ -1,0 +1,47 @@
+{
+  "concentration": {
+    "abs_excess_tertile_over_median": 0.25721153846153844,
+    "available": true,
+    "both_same_direction": false,
+    "concentrates_in_extreme_loss": false,
+    "delta_median_8v8": 0.28125,
+    "delta_tertile_3v13": 0.5384615384615384,
+    "interpretation": "No evidence of concentration in the extreme-loss lines: the tertile contrast exceeds the median primary by +0.257 in |delta|, within the pre-registered 0.3 threshold.",
+    "threshold": 0.3
+  },
+  "conditions": [
+    {
+      "description": "S8.1 primary p<0.05 and delta <= -0.33",
+      "detail": "p=0.3823, delta=+0.281",
+      "key": "primary",
+      "passed": false
+    },
+    {
+      "description": "S8.2 gold-only same direction, |delta| >= 0.30",
+      "detail": "gold-only delta=-0.619",
+      "key": "r1_gold_only",
+      "passed": true
+    },
+    {
+      "description": "S8.3 >=2/3 BIR genes at q<0.10, no HR gene stronger",
+      "detail": "0/3 BIR genes at q<0.1 in predicted direction (none); strongest BIR delta -0.344; strongest same-direction HR delta -0.250",
+      "key": "bir_genes",
+      "passed": false
+    },
+    {
+      "description": "S8.4 no sign flip on leave-one-line-out",
+      "detail": "16 refits, delta range [+0.179, +0.464]",
+      "key": "r7_loo",
+      "passed": false
+    },
+    {
+      "description": "S8.5 ALT- stratum shows no significant same-direction shift",
+      "detail": "ALT- delta=-0.400, p=0.4127; ALT+ delta=+0.281 (delta difference reported as a diagnostic, not a gate)",
+      "key": "selectivity",
+      "passed": true
+    }
+  ],
+  "headline": "The result matches no pre-specified outcome bucket: p=0.3823, delta=+0.281. Failed support conditions: ['primary', 'bir_genes', 'r7_loo']. Report this as-is; do not round it toward the nearest verdict.",
+  "outcome": "indeterminate",
+  "section": "none of Sections 8/9/10"
+}

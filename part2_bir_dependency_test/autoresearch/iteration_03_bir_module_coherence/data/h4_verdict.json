@@ -1,0 +1,56 @@
+{
+  "outcome": "null",
+  "rule": "clean-null",
+  "headline": "Clean null: |aligned delta| = 0.182 < 0.2 (p = 0.2285). No effect of interpretable size in either direction.",
+  "aligned_delta": -0.18235294117647058,
+  "p_value": 0.22847715228477153,
+  "predicted_sign": 1,
+  "conditions": [
+    {
+      "key": "all_pairs_positive",
+      "description": "all three pairwise rho > 0",
+      "passed": false,
+      "detail": "POLD3-RAD52=-0.268; POLD3-SMARCAL1=+0.024; RAD52-SMARCAL1=-0.303"
+    },
+    {
+      "key": "min_pair_magnitude",
+      "description": "weakest pair rho >= 0.2",
+      "passed": false,
+      "detail": "weakest -0.3029"
+    },
+    {
+      "key": "exceeds_matched_triplets",
+      "description": "T above the q95 of mean/SD-matched random triplets",
+      "passed": false,
+      "detail": "observed -0.1824 vs q95 +0.2794 (12.5th percentile)"
+    },
+    {
+      "key": "assay_sensitive",
+      "description": "Pol delta T >= 0.4 on raw and standardised",
+      "passed": false,
+      "detail": "raw -0.1637, standardised -0.1961"
+    },
+    {
+      "key": "loo_no_sign_flip",
+      "description": "no leave-one-out refit flips the sign",
+      "passed": true,
+      "detail": "range [-0.2476, -0.1524]"
+    }
+  ],
+  "attributes": {
+    "statistic": "mean pairwise Spearman rho",
+    "n_lines": 16,
+    "detection_floor": 0.2892,
+    "gate_passed": false,
+    "matched_percentile": 12.5,
+    "observed_delta": -0.18235294117647058,
+    "all_conditions_passed": false,
+    "failed_conditions": [
+      "all_pairs_positive",
+      "min_pair_magnitude",
+      "exceeds_matched_triplets",
+      "assay_sensitive"
+    ],
+    "significant": false
+  }
+}

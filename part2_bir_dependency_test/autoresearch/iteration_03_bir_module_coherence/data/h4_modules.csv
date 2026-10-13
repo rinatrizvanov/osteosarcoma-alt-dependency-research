@@ -1,0 +1,8 @@
+module,genes,k,n_lines,T,p_perm,floor_p05,reaches_floor,min_pair_rho,max_pair_rho,has_ties
+BIR triplet (Stage 1),POLD3+RAD52+SMARCAL1,3,16,-0.1824,0.2285,0.2892,False,-0.3029,0.0235,False
+"Pol delta (gate, raw)",POLD1+POLD2+POLD3,3,16,-0.1637,0.2825,0.2892,False,-0.2235,-0.0735,False
+"Pol delta (gate, standardised)",POLD1+POLD2+POLD3,3,16,-0.1961,0.1916,0.2892,False,-0.2471,-0.1324,False
+BTR (BLM/TOP3A/RMI1/RMI2),BLM+TOP3A+RMI1+RMI2,4,16,0.5255,0.0001,0.2029,True,0.3824,0.8,False
+HR module (Stage 1 subtrahend),BRCA1+BRCA2+RAD51,3,16,0.4137,0.0039,0.2892,True,0.2618,0.6882,False
+Batenburg BIR (MUS81/RAD52/POLD3),MUS81+RAD52+POLD3,3,16,-0.2735,0.0665,0.2892,False,-0.5118,-0.0412,False
+Extended fork restart (k=5),MUS81+RAD52+POLD3+SMARCAL1+PIF1,5,16,-0.0538,0.5196,0.1556,False,-0.5118,0.4559,False

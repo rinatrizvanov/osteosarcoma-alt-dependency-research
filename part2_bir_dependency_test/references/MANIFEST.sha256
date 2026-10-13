@@ -1,0 +1,29 @@
+# references/ — frozen read-only copies from the Aim 2 project
+#
+# Source project : /Users/rinatrizvanov/Desktop/Projects/Project 1 - Comp Bio for Osteosarcoma/tcab1-alt-osteo pipeline
+# Source git HEAD: 5af4d0f31ed0d777c2daca32c4cfd1e2d8d02ea8
+# Source git log : 5af4d0f 2026-06-12 notebooks 13
+# Copied         : 2026-10-11T22:54:32Z
+# Mode           : all files chmod -w (read-only) after copy
+#
+# master_manifest.csv is the FROZEN LABEL INPUT for Stage 1.
+# Stage 1 never re-derives ALT labels; it reads alt_call_direction / alt_status from here.
+#
+# Original paths within the source project:
+#   label_spec_v1.0.md           <- docs/label_spec_v1.0.md
+#   feasibility_decision_memo.md <- docs/feasibility_decision_memo.md
+#   aim2_signature.py            <- src/aim2_signature.py
+#   label_rules.py               <- src/label_rules.py
+#   manifest_builder.py          <- src/manifest_builder.py
+#   aim2_utils.py                <- src/utils.py   (RENAMED to avoid shadowing src/utils.py here)
+#   master_manifest.csv          <- data/manifests/master_manifest.csv
+#   notebook_13_report.md        <- data/processed/notebook_13_report.md
+
+a07acacf27f4046cbc756c8325ba4b6acf27d5a1c3e39200702f066475ea0d11  feasibility_decision_memo.md
+beb31ee7d99ecfafa0ef69fca4db80827370221d1e8d0045339b3d4968859aff  label_spec_v1.0.md
+0b217ea0055642a8a909e40c7cc6a2e7ccdc219d3799b2ca7db4f6f5783371b7  notebook_13_report.md
+f08c78ebd02ff645383f4e8b3c06e3ebf4441b01aca3fdad26f1bd0eb1936f77  aim2_signature.py
+fb1b58e3eb5b20973eae9d3ae1ee55cbf55853e803d5aaa8f9a23beb3cf82ac6  aim2_utils.py
+1b7689636d19d3ffec9166053081811359b7835d1abeebd0797500dde569f541  label_rules.py
+b14c9a7e3874667b9443180d6d50fd07e8f630976a4c97f39420ccd5ab0d9207  manifest_builder.py
+d51c5f180391ffbce9fd4d5d66ed449532a796859e2bd186a73049c8cbc68b31  master_manifest.csv

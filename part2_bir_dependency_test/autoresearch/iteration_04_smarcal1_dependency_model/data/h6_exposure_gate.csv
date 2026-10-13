@@ -1,0 +1,4 @@
+gene,n,sd,n_zero,guarded_gap,shapiro_p,sd_ok,no_zeros_ok,gap_ok,shapiro_ok,gate_passed
+PRIMPOL,16,0.761,0,0.4536,0.1174,True,True,True,True,True
+ZRANB3,16,0.4269,0,0.2059,0.9419,False,True,True,True,False
+BLM,16,0.8947,0,0.2196,0.0059,True,True,True,False,False

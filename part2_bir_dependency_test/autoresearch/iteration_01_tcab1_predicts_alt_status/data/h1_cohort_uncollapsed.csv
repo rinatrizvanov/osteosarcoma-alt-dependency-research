@@ -1,0 +1,32 @@
+ModelID,arm,alt_status,alt_call_direction,StrippedCellLineName,PatientID,SourceType
+ACH-000082,ALT+,alt_gold_positive,positive,G292CLONEA141B1,PT-noCCE4,ATCC
+ACH-000359,ALT-,alt_negative_high_conf,negative,MG63,PT-qWqYVi,ATCC
+ACH-000364,ALT+,alt_gold_positive,positive,U2OS,PT-WN1oZd,ATCC
+ACH-000410,ALT+,alt_gold_positive,positive,SAOS2,PT-mOrUlf,ATCC
+ACH-000613,ALT-,alt_negative_high_conf,negative,HOS,PT-epgMPc,ATCC
+ACH-000748,ALT-,alt_negative_high_conf,negative,SJSA1,PT-OexHxF,ATCC
+ACH-001001,ALT-,alt_negative_high_conf,negative,143B,PT-epgMPc,ATCC
+ACH-001275,ALT-,alt_silver,negative,SYO1,PT-WqcWC9,The Broad Institute
+ACH-001526,ALT+,alt_gold_positive,positive,HUO9,PT-JCLa8x,JCRB
+ACH-001715,ALT+,alt_gold_positive,positive,CAL72,PT-fcGStb,DSMZ
+ACH-001813,ALT-,alt_silver,negative,C242,PT-0lpZdv,Montefiore Einstein
+ACH-001814,ALT-,alt_negative_high_conf,negative,OS252,PT-2XpRTn,Montefiore Einstein
+ACH-001817,ALT-,alt_silver,negative,C393,PT-EIDHhW,Montefiore Einstein
+ACH-002067,ALT+,alt_gold_positive,positive,NOS1,PT-EcVEYs,RIKEN
+ACH-002069,ALT-,alt_negative_high_conf,negative,HSOS1,PT-3pqp8N,RIKEN
+ACH-002142,ALT-,alt_negative_high_conf,negative,HUO3N1,PT-3yhqod,JCRB
+ACH-002178,ALT+,alt_gold_positive,positive,NY,PT-8IZOGw,JCRB
+ACH-002433,ALT+,alt_silver,positive,CCLFPEDS0019T,PT-k1gvKS,CCLF
+ACH-002470,ALT-,alt_negative_high_conf,negative,OS186,PT-873wzV,UCSF Helen Diller Family Comprehensive Cancer Center
+ACH-002471,ALT+,alt_gold_positive,positive,OS052,PT-UbzBsY,UCSF Helen Diller Family Comprehensive Cancer Center
+ACH-002688,ALT+,alt_gold_positive,positive,OS457,PT-A4Rqd9,UCSF Helen Diller Family Comprehensive Cancer Center
+ACH-002689,ALT+,alt_gold_positive,positive,OS525,PT-EDeFw0,UCSF Helen Diller Family Comprehensive Cancer Center
+ACH-002690,ALT+,alt_gold_positive,positive,OS526,PT-6Xf1w4,UCSF Helen Diller Family Comprehensive Cancer Center
+ACH-002779,ALT-,alt_silver,negative,NCCESOS1C1,PT-eB3Nou,National Cancer Center Research Institute
+ACH-002834,ALT+,alt_gold_positive,positive,OS384,PT-EcUHFc,UCSF Helen Diller Family Comprehensive Cancer Center
+ACH-003171,ALT+,alt_silver,positive,NRHOS1,PT-i9JRNE,"Oslo University Hospital, The Norwegian Radium Hospital"
+ACH-003176,ALT-,alt_silver,negative,NRHGCT1,PT-VbQDpc,"Oslo University Hospital, The Norwegian Radium Hospital"
+ACH-003178,ALT+,alt_silver,positive,NRHOS2,PT-or8OCW,"Oslo University Hospital, The Norwegian Radium Hospital"
+ACH-003185,ALT+,alt_silver,positive,NRHOS4,PT-McNlZE,"Oslo University Hospital, The Norwegian Radium Hospital"
+ACH-003573,ALT+,alt_silver,positive,C337,PT-s4DSO4,MD Anderson Cancer Center
+ACH-003587,ALT+,alt_silver,positive,531MII,PT-g8kcwe,Clinica Universitaria de Navarra

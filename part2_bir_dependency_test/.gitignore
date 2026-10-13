@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+*.egg-info/
+.ipynb_checkpoints/
+data/raw/
+data/processed/provenance.jsonl
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.pytest_cache/
+
+# Literature: scan outputs and INDEX.md are tracked; publisher PDFs are not
+# redistributed. Literature/new/ additionally holds ~503 MB of publisher
+# supplementary material (xlsx/zip/docx/mov) that must never enter the repo --
+# only the three small retrieval manifests are kept, as the provenance record.
+Literature/**/*.pdf
+Literature/new/*
+!Literature/new/osteo-alt-tcab/
+Literature/new/osteo-alt-tcab/*
+!Literature/new/osteo-alt-tcab/_report.json
+!Literature/new/osteo-alt-tcab/_summary.csv
+!Literature/new/osteo-alt-tcab/_scihub_manifest.csv
+
+# autoresearch: run-varying provenance stays local
+autoresearch/**/provenance.jsonl
