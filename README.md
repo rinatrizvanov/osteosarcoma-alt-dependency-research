@@ -69,6 +69,20 @@ read-only and **never re-derived a label** — it is vendored into
 appear twice here. The duplication is deliberate: it is the provenance record, and
 deduplicating it would break the checksums the design depends on.
 
+## Post-hoc exploration
+
+`posthoc_exploration/` — **external-review response documenting one test declined on
+substance, one test scoped but not executed, and one cross-check left open. No analysis
+results are reported.** It was written on 2026-10-14, after the campaign had closed at tag
+`autoresearch-complete-v1.0`, when external review of the results proposed two further tests.
+One — a Pol ζ / REV3L contrast between ALT+ and ALT− lines — is declined because its cited
+source makes no claim about ALT or telomeres and the nearest relevant published work predicts
+no difference. The other — cross-arm coupling between the HR and BIR arms — is scoped in full
+and preserved as future work, but was never run. Nothing in that directory enters the
+campaign's FDR family or changes its record, and were either test executed it would be
+hypothesis-generating only, requiring independent cohort validation before carrying any
+weight.
+
 ---
 
 ## What this is NOT
@@ -123,6 +137,7 @@ idempotent: re-running writes a byte-identical `notebook_NN_sha256.json`.
 | `docs/project_history.md` | How this repository was consolidated from two parent projects |
 | `part1_alt_classification/` | ALT signature: notebooks, label spec, audits |
 | `part2_bir_dependency_test/` | Stage 1 test, the four-iteration campaign, literature index |
+| `posthoc_exploration/` | External-review response. No results reported; see the framing above |
 
 ## Citation and licence
 
