@@ -100,8 +100,15 @@ weight.
 - **It is not a validated biomarker.** Part 1's classifier is a within-cohort result at
   N = 20–31 with mostly unstable coefficients and no external validation.
 - **It is not a clinical or diagnostic tool.**
-- **It does not redistribute DepMap or any publisher material.** Code, pre-registrations and
-  derived summaries only.
+- **It does not redistribute raw DepMap files or any publisher material.** Code,
+  pre-registrations and derived summaries only. Small derived tables do carry per-line
+  DepMap-sourced values (gene-effect scores, model metadata) for the 25 osteosarcoma lines
+  in scope; DepMap public releases are CC BY 4.0 and are cited in
+  `part1_alt_classification/docs/data_provenance.md`.
+- **One redaction.** An academic advisor who was shown Part 1 in June 2026 has not reviewed
+  or approved this public release, so their name and institution are replaced with role
+  descriptions throughout. Citations to their published work are unchanged. See
+  `docs/project_history.md`.
 
 ## How to reproduce
 
